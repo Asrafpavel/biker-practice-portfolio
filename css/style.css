@@ -1,0 +1,14 @@
+header{
+    background-image: url(../images/others/header.jpg),linear-gradient(90deg, #181818 0%, rgba(24, 24, 24, 0.82) 24.48%, rgba(24, 24, 24, 0.00) 100%);
+    height: 90vh;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+.btn-bz-salmon{
+    background-color: rgb(241, 122, 109);
+}
+.btn-bz-salmon:hover{
+    background-color: salmon;
+}
