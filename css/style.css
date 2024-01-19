@@ -7,8 +7,14 @@ header{
     background-size:cover;
 }
 .btn-bz-salmon{
-    background-color: rgb(241, 122, 109);
+    background-color: rgb(228, 112, 99);
 }
 .btn-bz-salmon:hover{
     background-color: salmon;
+}
+.bg-bz-img{
+    filter: grayscale(1);
+}
+.text-bz-primary{
+    color: #E77C40;
 }
